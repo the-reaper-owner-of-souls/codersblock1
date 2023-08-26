@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  border: 1px solid #000;
+}
+
+.video-container {
+  flex: 1;
+}
+
+.video-container video {
+  width: 100%;
+}
+
+.text-container {
+  flex: 1;
+  padding: 20px;
+}
